@@ -7,5 +7,6 @@ A demo for how to download the main images from a list of wikipedia pages using 
 * Then:
 	```
 	cd src
+	
 	scrapy crawl colleges -o output.json
 	```
